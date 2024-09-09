@@ -50,8 +50,8 @@ HTML_BODY = """
                         </li>
                         <li><b>Syntax</b>:
                             <ul>
-                                <li><b>List</b>: Created using square brackets `[]`.</li>
-                                <li><b>Generator</b>: Created using parentheses `()` or by using a function with the `yield` keyword.</li>
+                                <li><b>List</b>: Created using square brackets <code>[]</code>.</li>
+                                <li><b>Generator</b>: Created using parentheses <code>()</code> or by using a function with the <code>yield</code> keyword.</li>
                             </ul>
                         </li>
                         <li><b>Evaluation</b>:
